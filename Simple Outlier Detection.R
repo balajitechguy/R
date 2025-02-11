@@ -1,3 +1,10 @@
+# ------------------------------------------------------------------------------
+# Program Name: Simple Outlier Detection.R
+# Author: Balaji
+# Date: 11-Feb-2025
+# Purpose: Simple Outlier Detection
+# ------------------------------------------------------------------------------
+
 # Function to detect outliers using the IQR method
 detect_outliers <- function(x) {
   # Calculate the first quartile (Q1)
