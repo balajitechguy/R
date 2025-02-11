@@ -1,2 +1,2 @@
 # R
-Simplifying SAS
+Simplifying R
